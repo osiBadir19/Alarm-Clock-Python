@@ -1,10 +1,14 @@
- # QR Codes with Python
-
-### What is a QR code?
-QR codes are used to encode and decode the data into a machine-readable form. The use of camera phones to read two-dimensional barcodes for various purposes is currently a popular topic in both types of research and practical applications. 
+# How to Create an Alarm Clock with Python?
+As the title suggests, our task here is to write a python script that creates an alarm clock, which can be used as an sleeping alarm. 
 
 ### required modules : 
-- pyqrcode
+- datetime
+- playsound
+- re
+
+
+### required files :
+- alarm sound effect 
 
 ---
 
